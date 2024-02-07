@@ -1,0 +1,19 @@
+body {
+    background-color: hsl(100, 50, 10);
+    color: hsl(210, 50%, 25%);
+}
+h1 {
+    color: darkcyan;
+}
+.mobil {
+    color: burlywood;
+}
+
+#ayla {
+    color: brown;
+}
+
+a[target]{
+    background-color: beige;
+    color: goldenrod;
+}
